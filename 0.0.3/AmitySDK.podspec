@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "AmitySDK"
-    s.version      = "5.1.0"
+    s.version      = "0.0.3"
     s.summary      = "An SDK for messaging, social & live video platform provided by Amity."
     s.description  = <<-DESC
     Amity SDK supercharges your platform with social features — from Feeds and Chat to Stories and Live Streaming. Build online communities, drive social engagement, create positive experiences, and grow your revenue.
